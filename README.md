@@ -1,4 +1,4 @@
-# Wayze 🗺️
+# Wayze 
 
 **Intelligent daily route planner for Colombian cities.**
 
